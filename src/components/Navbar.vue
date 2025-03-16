@@ -16,7 +16,7 @@ const isActiveLink = (routePath) => {
           <!-- Logo -->
           <RouterLink
             class="flex flex-shrink-0 items-center mr-4"
-            to="index.html"
+            to="/"
           >
             <img
               class="h-10 w-auto"
